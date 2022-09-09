@@ -25,3 +25,7 @@ docker exec -it jenkins bash
 docker logs jenkins
 
 ```
+
+### References
+
+https://www.jenkins.io/doc/book/installing/docker/
